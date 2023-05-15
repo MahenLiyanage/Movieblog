@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    background-color: #add8e6;
+    flex-wrap:wrap ;
+    justify-items:start;
+    align-items:flex-end;
+    align-content: center;
+
+}
+.container>div{
+    background-color: rgba(0, 208, 255, 0.688);
+    padding:20px;
+    margin: 20px;
+
+}
